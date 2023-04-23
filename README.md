@@ -4,3 +4,4 @@
 ![Vscode]
 ![Discord]
 ![Facebook](https://i.ibb.co/tbpzDPp/facebook-square-logo-48.png)
+![İnstagram](https://i.ibb.co/J2SwSzG/instagram-alt-logo-48.png)
