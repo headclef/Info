@@ -5,3 +5,5 @@
 ![Discord](https://i.ibb.co/wWFpwfc/discord-logo-48.png)
 ![Facebook](https://i.ibb.co/tbpzDPp/facebook-square-logo-48.png)
 ![İnstagram](https://i.ibb.co/J2SwSzG/instagram-alt-logo-48.png)
+![Youtube](https://i.ibb.co/Yjvwq7J/youtube-logo-48.png)
+![LinkedIn](https://i.ibb.co/1Q7bwxP/linkedin-square-logo-48.png)
