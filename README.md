@@ -1,4 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=750&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi!;I+am+Furkan+TURAL.;I+am+a+student+from+Turkey.)](https://git.io/typing-svg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Vscode](image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAUlJREFUSEu9lIExBEEQRd9FQAZkQAgyQASIwGWACBABIiADQiADGTgRUE/NXM3Njt22W2uqlKqb3v96/vzpBTOvxcz6TAWcAnfAC3CV/m/0PAVwCVxUDnRAYwH3wEmPve6fuT8GMCSeuT/aNWAXWKW/usFt4BnYDwajA/BDBQQcA6+FUJ/4G7DXgHYACm8VhV6iyfBUj790fgssga8IIEeurDUVnswTlOsTsP4p/RgCWNuC1M1pyRHwXmyEAX5zkDor7cpa2ZIa+idA3ym0xHx7X+UKAyIWaU2dshDgBjivOntIl9yKoenRMlcIYGc76QNTooCv1gSZphYkW/YRialxVEiQVtUPTdhhQ8i61utujoqhKRCdQ+sx9O/DbugEed/7ue4pdsQ4akaN66zbirSpU3j9ysdYVDbuyFDQi94QzkVTAYOWzg74Bg+AQxkOUkHMAAAAAElFTkSuQmCC)
+![Vscode](https://ibb.co/fNyL7GF)
