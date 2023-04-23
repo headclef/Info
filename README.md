@@ -3,3 +3,4 @@
 ![Python]
 ![Vscode]
 ![Discord]
+![Facebook](https://i.ibb.co/p2P0qK0/facebook-24x24-1x.png)
