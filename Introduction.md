@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @headclef,
-- 👀 I’m interested in: Metallurgy & Game Developing (programming)
-- 🌱 I’m currently learning: Material Science & Unity 3D (C#)
-- // 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: furkanturalofficial@outlook.com
