@@ -10,7 +10,7 @@
 	<a target = "_blank"><img alt = "Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-3776AB?style=flat-square&logo=visual-studio-code&logoColor=white" align="middle"></a>
 </div>
 <div align = "center">
-	<a href = "" target = "_blank"><img alt="Discord" src="https://img.shields.io/badge/-headclef%209871-3776AB?style=flat-square&logo=discord&logoColor=white" align="middle"></a>
+	<a target = "_blank"><img alt="Discord" src="https://img.shields.io/badge/-headclef%209871-3776AB?style=flat-square&logo=discord&logoColor=white" align="middle"></a>
 	<a href = "https://www.twitch.tv/deofhell" target = "_blank"><img alt = "Twitch" src = "https://img.shields.io/badge/-Twitch-3776AB?style=flat-square&logo=twitch&logoColor=white" align = "middle"></a>
 	<a href = "https://www.youtube.com/@headclef" target = "_blank"><img alt = "Youtube" src = "https://img.shields.io/badge/-Youtube-3776AB?style=flat-square&logo=youtube&logoColor=white" align = "middle"></a>
 	<a href = "https://www.facebook.com/headcleFT/" target = "_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-3776AB?style=flat-square&logo=facebook&logoColor=white" align="middle"></a>
