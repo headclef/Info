@@ -1,13 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=3000&pause=750&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi!;I+am+Furkan+TURAL.;I+am+a+student+from+Turkey.)
 
 <div align = "center">
-	 <a target = "_blank"><img alt = "Hello World" src = "https://img.shields.io/badge/-ASCII%20TABLE-3A3B3C?style=flat-square&logo=script&logoColor=white" align = "middle"><a/>
-</div>
-<div align = "center">
-	<img alt = "Ascii" src = "ascii.png" width = 1440 height = 900 align = "middle">
-</div>
-
-<div align = "center">
 	<a target = "_blank"><img alt = "Java" src = "https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=oracle&logoColor=white" align = "middle"></a>
 	<a target = "_blank"><img alt = "Python" src = "https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white" align = "middle"></a>
 	<a target = "_blank"><img alt = "C#" src = "https://img.shields.io/badge/-C%23-3776AB?style=flat-square&logo=c-sharp&logoColor=white" align = "middle"></a>
