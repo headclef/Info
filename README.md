@@ -2,6 +2,7 @@
 
 <div align = "center">
 	<h2>🪐 About Me 🪐</h2>
+	<img alt = "About Me Image" src = "https://github.com/headclef/headclef/assets/44907254/81efa7ed-7bfd-45a1-bbbb-89c025fc68d6" align = "bottom">
 </div>
 <div align = "center">
 	<p>I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023.</p>
@@ -12,6 +13,7 @@
 
 <div align = "center">
 	<h2>🪐 The Languages, Frameworks & Tools I am proficient about 🪐</h2>
+	<img alt = "The Languages, Frameworks & Tools I am proficient about" src = "https://github.com/headclef/headclef/assets/44907254/0058858d-3988-473b-adeb-809add7ea0d2" align = "bottom">
 </div>
 <div align = "center">
 	<a target = "_blank"><img alt = "Java" src = "https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=oracle&logoColor=white" align = "middle" height = "25"></a>
@@ -27,6 +29,7 @@
 
 <div align = "center">
 	<h2>🪐 Social 🪐</h2>
+	<img alt = "Social Image" src = "https://github.com/headclef/headclef/assets/44907254/6e78bc9c-cc1e-44c3-9e5a-fb4ef159a651" align = "bottom">
 </div>
 <div align = "center">
 	<a href = "https://www.twitch.tv/deofhell" target = "_blank"><img alt = "Twitch" src = "https://img.shields.io/badge/-Twitch-3776AB?style=flat-square&logo=twitch&logoColor=white" align = "middle" height = "25"></a>
@@ -44,10 +47,12 @@
 
 <div align = "center">
 	<h2>🪐 Contact 🪐</h2>
+	<img alt = "Contact Image" src = "https://github.com/headclef/headclef/assets/44907254/07cf8e79-0ea7-439c-9781-2dfcc7d735f5" align = "bottom">
 </div>
 <div align = "center">
 	<a href = "https://www.linkedin.com/in/furkantural" target = "_blank"><img alt = "LinkedIn" src = "https://img.shields.io/badge/-LinkedIn-3776AB?style=flat-square&logo=Linkedin&logoColor=white" align = "middle" height = "25"></a>
 	<a target = "_blank"><img alt = "E - Mail" src= "https://img.shields.io/badge/-furkanturalofficial@outlook.com-3776AB?style=flat-square&logo=microsoft-outlook&logoColor=white" align = "middle" height = "25"></a>
 </div>
+
 
 <!-- style = "border-style: solid; border-width: 10px; border-color: #3776ab; border-radius: 20px" -->
