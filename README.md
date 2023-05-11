@@ -4,11 +4,10 @@
 	<h2>🪐 About Me 🪐</h2>
 	<img alt = "About Me Image" src = "https://github.com/headclef/headclef/assets/44907254/81efa7ed-7bfd-45a1-bbbb-89c025fc68d6" align = "bottom">
 </div>
-<div align = "center">
-	<p>I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023.</p>
-	<p>At the beginning of April 2023, I have started a bootcamp with Asp.Net Core & C# by using Visual Studio.</p>
-	<p>I have gotten some Java application development classes back in my junior year at Kocaeli University by using Flowgorithm, Eclipse and NetBeans</p>
-	<p>After a while i've started developing starter apps for learning Java further by using Android Studio. I'm not proficent at it but still had some experience with it is all i can say.</p>
+<div align = "justify">
+	<p>I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023. At the beginning of April 2023, I have started a bootcamp with Asp.Net Core & C# by using Visual Studio.
+		I have gotten some Java application development classes back in my junior year at Kocaeli University by using Flowgorithm, Eclipse and NetBeans. After a while i've started developing starter apps for learning Java further by using Android Studio.
+		I'm not proficent at it but still had some experience with it is all i can say.</p>
 </div>
 
 <div align = "center">
@@ -53,6 +52,9 @@
 	<a href = "https://www.linkedin.com/in/furkantural" target = "_blank"><img alt = "LinkedIn" src = "https://img.shields.io/badge/-LinkedIn-3776AB?style=flat-square&logo=Linkedin&logoColor=white" align = "middle" height = "25"></a>
 	<a target = "_blank"><img alt = "E - Mail" src= "https://img.shields.io/badge/-furkanturalofficial@outlook.com-3776AB?style=flat-square&logo=microsoft-outlook&logoColor=white" align = "middle" height = "25"></a>
 </div>
-
+<div align = "center">
+	</br>
+	<img alt = "Page Ending Image" src = "https://github.com/headclef/headclef/assets/44907254/ab6d02bc-de12-4a22-b7d0-3b1cbdc6f796" align = "bottom">
+</div>
 
 <!-- style = "border-style: solid; border-width: 10px; border-color: #3776ab; border-radius: 20px" -->
