@@ -5,9 +5,18 @@
 	<img alt = "About Me Image" src = "https://github.com/headclef/headclef/assets/44907254/81efa7ed-7bfd-45a1-bbbb-89c025fc68d6" align = "bottom">
 </div>
 <div align = "justify">
-	<p>I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023. At the beginning of April 2023, I have started a bootcamp with Asp.Net Core & C# by using Visual Studio.
+	<p>
+		I have been working on learning Full Stack Development of web applications by using Asp.NET, Mssql, Tsql, Html, C# since april 2023. At the beginning of April 2023, I have started a bootcamp with Asp.Net Core & C# by using Visual Studio.
 		I have gotten some Java application development classes back in my junior year at Kocaeli University by using Flowgorithm, Eclipse and NetBeans. After a while i've started developing starter apps for learning Java further by using Android Studio.
-		I'm not proficent at it but still had some experience with it is all i can say.</p>
+		I'm not proficent at it but still had some experience with it is all i can say.
+	</p>
+</div>
+
+<div>
+	<h2 align = "center">🪐 Experiences 🪐</h2>
+	<p align = "justify">
+		Teknolojik Çözümler Merkezi Bilişim ve Danışmanlık A.Ş., Expert Software Developer Assistant (09.2023 - ...)
+	</p>
 </div>
 
 <div align = "center">
